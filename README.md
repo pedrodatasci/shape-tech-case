@@ -118,11 +118,9 @@ ORDER BY total_failures ASC;
 ```
 
 Answer:
-```html
 <p align="center">
   <img src="utils/answer3.png" width="600"/>
 </p>
-```
 
 ---
 
@@ -136,11 +134,9 @@ GROUP BY group_name, name, sensor_id;
 ```
 
 Answer:
-```html
 <p align="center">
   <img src="utils/answer4.png" width="600"/>
 </p>
-```
 
 ---
 
