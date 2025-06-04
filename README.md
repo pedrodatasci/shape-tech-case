@@ -119,7 +119,7 @@ ORDER BY total_failures ASC;
 
 Answer:
 <p align="center">
-  <img src="utils/answer3.png" width="600"/>
+  <img src="utils/answer3.png"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@ GROUP BY group_name, name, sensor_id;
 
 Answer:
 <p align="center">
-  <img src="utils/answer4.png" width="600"/>
+  <img src="utils/answer4.png"/>
 </p>
 
 ---
