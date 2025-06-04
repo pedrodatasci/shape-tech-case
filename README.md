@@ -3,11 +3,10 @@
 This project implements a complete data pipeline that ingests, processes, and analyzes equipment sensor failure data for an FPSO scenario, using AWS services like Glue, S3, Redshift Serverless, and EC2-hosted Airflow. The DAG handles ingestion from raw files to a curated Silver table and enables analytical queries via Redshift.
 
 ## Diagram
-```html
 <p align="center">
   <img src="utils/diagram.png" width="600"/>
 </p>
-```
+
 
 ## Architecture Overview
 
